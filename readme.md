@@ -2,6 +2,7 @@
 
 - Working Well
 - Format
+- Design
 - Naming Convension
 - Readable And Maintainable
 - DRY
